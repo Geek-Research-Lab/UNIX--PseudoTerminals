@@ -1,6 +1,8 @@
 Welcome to UNIX--PseudoTerminals repository! <br>
 Unix-BSD and AT&T has been targeted. The project is intended for self-learning and also, aimed to do proposed thingy with windows.
 <br>
+Architecture (overview):- http://ashumeow.tumblr.com/image/88510415387
+<br>
 And i wanna confess that i have no runnable BSD OS or anything.
 <br>
 I just have a cute Windows 8.1.1 Operating System. <br>
